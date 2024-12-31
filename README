@@ -1,7 +1,7 @@
 # cd /usr/src/gnu/lib
-# git clone https://github.com/jg1uaa/libc++experimental-obsd76
-# mv libc++experimental-obsd76 libc++experimental
-# cd libc++experimental
+# git clone https://github.com/jg1uaa/libcxxexperimental-obsd76
+# mv libcxxexperimental-obsd76 libcxxexperimental
+# cd libcxxexperimental
 # make clean
 # make
 # make install
